@@ -11,7 +11,7 @@ c = clear drawing
 
 tim = Turtle()
 screen = Screen()
-
+screen.title('etch_a_sketch')
 
 def move_forwards():
     tim.forward(10)
